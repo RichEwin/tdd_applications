@@ -6,6 +6,6 @@ Various programs built using test-driven development. More details in the each p
 
 ## Technologies
 
-- Programming Language: Ruby & Javascript
-- Testing Framework: RSpec & Jest
+- Programming Language: Ruby, Javascript, Scala
+- Testing Framework: RSpec, Jest, ScalaTest
 
